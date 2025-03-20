@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Custom files
+Flua_job1_datasetv1.xlsx
+
+
+
